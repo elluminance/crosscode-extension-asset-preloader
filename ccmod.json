@@ -4,7 +4,7 @@
 
     "title": "Extension Asset Preloader",
     "description": "Fixes files from extensions potentially not being loaded during the game's loading.",
-    "repository": "https://github.com/EL20202/crosscode-extension-asset-preloader",
+    "repository": "https://github.com/elluminance/crosscode-extension-asset-preloader",
     "tags": ["library"],
     "authors": "elluminance",
 
